@@ -10,7 +10,7 @@
 # 멀리뛰기에 사용될 칸의 수 n이 주어질 때,
 # 효진이가 끝에 도달하는 방법이 몇 가지인지 출력하는 jumpCase 함수를 완성하세요.
 # 예를 들어 4가 입력된다면, 5를 반환해 주면 됩니다.
-
+# sadasd
 cache = {}
 def jumpCase(num):
     if num in cache:
