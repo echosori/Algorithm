@@ -11,12 +11,20 @@
 # 효진이가 끝에 도달하는 방법이 몇 가지인지 출력하는 jumpCase 함수를 완성하세요.
 # 예를 들어 4가 입력된다면, 5를 반환해 주면 됩니다.
 
-
+cache = {}
 def jumpCase(num):
-    answer = 0
+    if num in cache:
+        return cache[num]
+    if num ==1:
+        value = 1
+    elif num ==2:
+        value = 2
+    elif num>2:
+        value = jumpCase(num-1)+jumpCase(num-2)
+    cache[num] = value
 
-    return answer
+    return value
 
 #아래는 테스트로 출력해 보기 위한 코드입니다.
-print(jumpCase(4))
+print(jumpCase(10))
 
