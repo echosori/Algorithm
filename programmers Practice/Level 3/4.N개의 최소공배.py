@@ -21,7 +21,6 @@ import math
 from functools import reduce
 import random
 
-
 def soyinsu(n):
     # n 은  정수 타입이다
     k = []
@@ -34,7 +33,6 @@ def soyinsu(n):
             i += 1
     k.append(int(n))
     return k
-
 
 def lcm_two(a, b):
     # a,b type is list
@@ -53,7 +51,6 @@ def lcm_two(a, b):
     # print(c, 'c')
     lcm = reduce(lambda x, y: x * y, c)
     return lcm
-
 
 # print(lcm_two([2,3],[3]))
 # print(lcm_two([3],[2,3]))
