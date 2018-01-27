@@ -14,7 +14,14 @@
 # 야근 지수는 22 + 22 + 22 = 12가 되어 12를 반환해 줍니다.
 
 
+
+
 def noOvertime(n, works):
-    result = 0
-    # 야근 지수를 최소화 하였을 때의 야근 지수는 몇일까요?
-    return result
+    for i in range(n):
+        works.append(max(works) - 1)
+        works.remove(max(works))
+
+    return sum([i**2 for i in works])
+
+
+print(noOvertime(4, [4, 3, 3]))
