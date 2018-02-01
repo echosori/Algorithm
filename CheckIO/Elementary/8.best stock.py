@@ -1,6 +1,6 @@
 def best_stock(data):
     # your code here
-    a = max(data, lambda x:x[1])
+    a = sorted(data.items(),key=lambda x:x[1])[-1][0]
     return a
 
 
