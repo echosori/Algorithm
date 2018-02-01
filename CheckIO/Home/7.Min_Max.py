@@ -1,7 +1,8 @@
 # 在这个任务中，你应该自己写出PY3中实现的内建函数
 # min
 # 和
-# max。 一些内建函数在这里是不能用的：import，eval，exec，globals。 别忘了，你需要在你的代码中实现两个函数。
+# max。 一些内建函数在这里是不能用的：import，eval，exec，globals。 别忘了，
+# 你需要在你的代码中实现两个函数。
 #
 # max(iterable, *[, key])
 # 或者
@@ -40,21 +41,43 @@
 # 更精确的水平上工作的。
 #
 # 前提: 所有的测试用例都是正确的并且函数不会引发异常。
+def find_same(iterable, key):
+    # return iterable first same values' end element
+    if key:
+        if len(iterable) == 2:
+            if key(iterable[0] != key(iterable[1])):
+                return iterable[1]
+        for i in range(len(iterable) - 2, -1, -1):
+            if key(iterable[i]) != key(iterable[-1]):
+                return iterable[i + 1]
+        return iterable[0]
+    else:
+        if len(iterable) == 2:
+            if iterable[0] != iterable[1]:
+                return iterable[1]
+        for i in range(len(iterable) - 2, -1, -1):
+            if iterable[i] != iterable[-1]:
+                return iterable[i + 1]
+        return iterable[0]
 
-def min(*args, **kwargs):
-    key = kwargs.get("key", None)
-    while i <= len(args):
 
-    return None
-
+#
 
 def max(*args, **kwargs):
     key = kwargs.get("key", None)
-    return None
+    args = args if len(args) > 1 else args[0]
+    args_sorted = sorted(args, key=key)
+    return find_same(args_sorted, key)
+
+
+def min(*args, **kwargs):
+    key = kwargs.get("key", None)
+    args = args if len(args) > 1 else args[0]
+    return sorted(args, key=key)[0]
 
 
 if __name__ == '__main__':
-    #These "asserts" using only for self-checking and not necessary for auto-testing
+    # These "asserts" using only for self-checking and not necessary for auto-testing
     assert max(3, 2) == 3, "Simple case max"
     assert min(3, 2) == 2, "Simple case min"
     assert max([1, 2, 0, 3, 4]) == 4, "From a list"
@@ -62,4 +85,3 @@ if __name__ == '__main__':
     assert max(2.2, 5.6, 5.9, key=int) == 5.6, "Two maximal items"
     assert min([[1, 2], [3, 4], [9, 0]], key=lambda x: x[1]) == [9, 0], "lambda key"
     print("Coding complete? Click 'Check' to review your tests and earn cool rewards!")
-

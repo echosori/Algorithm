@@ -17,4 +17,29 @@
 # 그러면 500개 이상의 약수를 갖는 가장 작은 삼각수는 얼마입니까?
 
 # 한 수의 약수 개수를 세는 함수
+import math
 
+
+def triangular(n):
+    return int((n * (n + 1)) / 2)
+
+
+# for i in range(10000):
+#     print(triangular(i))
+#
+
+def soyinsu(n):
+    # n 은  정수 타입이다
+    k = []
+    i = 2
+    while i < (int(math.sqrt(n)) + 1):
+        if n % i == 0:
+            k.append(i)
+            n = n / i
+        else:
+            i += 1
+    k.append(int(n))
+    return k
+
+
+print(soyinsu(12323345657742))

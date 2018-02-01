@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+
+
 # 프로그램 명: slant
 # 제한시간: 1 초
 # 엑스 형은 와이 다.
@@ -73,4 +76,4 @@ c,d=(int(n) for n in input().split())
 
 y=(d*a-b*c)/(a-c)
 
-print(int((d-y)/c) if a==0 else int((b-y)/a) ,int(y))
+print(int((d-y)/c) if a==0 else int((b-y)/a) ,int(y)）

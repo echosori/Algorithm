@@ -21,18 +21,11 @@ import math
 # print(expressions(15))
 
 
-def soyinsu(n):
-    # n 은  정수 타입이다
-    k = []
-    i = 2
-    while i < (int(math.sqrt(n)) + 1):
-        if n % i == 0:
-            k.append(i)
-            n = n / i
-        else:
-            i += 1
-    k.append(int(n))
-    return k
 
 
-print(soyinsu(222))
+
+a = [i for i in range(12)]
+print(a)
+for i in a:
+    print(id(i))
+
