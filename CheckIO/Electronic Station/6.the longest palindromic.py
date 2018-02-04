@@ -7,11 +7,13 @@ if __name__ == '__main__':
     assert longest_palindromic("abacada") == "aba", "The First"
     assert longest_palindromic("aaaa") == "aaaa", "The A"
 
-# Write a function that finds the longest palindromic substring of a given string.
+# Write a function that finds the longest
+# palindromic substring of a given string.
 
 # Try to be as efficient as possible!
 #
-# If you find more than one substring you should return the one which is closer to the beginning.
+# If you find more than one substring you
+# should return the one which is closer to the beginning.
 #
 # Input: A text as a string.
 #
