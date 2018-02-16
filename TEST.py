@@ -68,21 +68,30 @@
 
 
 # ----------------------------------------------------------------------------------------
-import datetime
+# import datetime
+#
+#
+# def days_diff(date1, date2):
+#     """
+#         Find absolute diff in days between dates
+#     """
+#     return abs((datetime.datetime(*date1) - datetime.datetime(*date2)).days)
+#
+#
+# print(days_diff((1982, 4, 19), (1982, 4, 22)))
+# print(days_diff((2014, 1, 1), (2014, 8, 27)))
+# print(days_diff((2014, 8, 27), (2014, 1, 1)))
+# if __name__ == '__main__':
+#     # These "asserts" using only for self-checking and not necessary for auto-testing
+#     assert days_diff((1982, 4, 19), (1982, 4, 22)) == 3
+#     assert days_diff((2014, 1, 1), (2014, 8, 27)) == 238
+#     assert days_diff((2014, 8, 27), (2014, 1, 1)) == 238
 
+import random
 
-def days_diff(date1, date2):
-    """
-        Find absolute diff in days between dates
-    """
-    return abs((datetime.datetime(*date1) - datetime.datetime(*date2)).days)
+a = [random.randrange(1,100) for i in range(10)]
+print(a)
 
+a.sort()
 
-print(days_diff((1982, 4, 19), (1982, 4, 22)))
-print(days_diff((2014, 1, 1), (2014, 8, 27)))
-print(days_diff((2014, 8, 27), (2014, 1, 1)))
-if __name__ == '__main__':
-    # These "asserts" using only for self-checking and not necessary for auto-testing
-    assert days_diff((1982, 4, 19), (1982, 4, 22)) == 3
-    assert days_diff((2014, 1, 1), (2014, 8, 27)) == 238
-    assert days_diff((2014, 8, 27), (2014, 1, 1)) == 238
+print(a)
