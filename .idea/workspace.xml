@@ -5,68 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="702e0bfb-3d79-45b0-af47-920807218b91" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Grokking Algorithms/2.선택 정열.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Grokking Algorithms/4.퀵 정열.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Grokking Algorithms/5.散列表dict.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Grokking Algorithms/6.Breadth First Search.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Grokking Algorithms/1.binary search.py" afterPath="$PROJECT_DIR$/Grokking Algorithms/1.binary search.py" />
-      <change beforePath="$PROJECT_DIR$/Grokking Algorithms/2.bigO.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Grokking Algorithms/3.선택 정열.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Grokking Algorithms/递归.py" afterPath="$PROJECT_DIR$/Grokking Algorithms/3.递归.py" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/.ipynb_checkpoints/20.Factorial digit sum(n!)-checkpoint.ipynb" afterPath="$PROJECT_DIR$/Project_euler/.ipynb_checkpoints/20.Factorial digit sum(n!)-checkpoint.ipynb" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/.ipynb_checkpoints/21.-checkpoint.ipynb" afterPath="$PROJECT_DIR$/Project_euler/.ipynb_checkpoints/21.-checkpoint.ipynb" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/10.소수의 합.py" afterPath="$PROJECT_DIR$/Project_euler/10.소수의 합.py" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/11.배열.py" afterPath="$PROJECT_DIR$/Project_euler/11.배열.py" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/12.삼각수의 약수.py" afterPath="$PROJECT_DIR$/Project_euler/12.삼각수의 약수.py" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/13.50자리수의 합" afterPath="$PROJECT_DIR$/Project_euler/13.50자리수의 합" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/13.50자리수의 합.py" afterPath="$PROJECT_DIR$/Project_euler/13.50자리수의 합.py" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/14.콜라츠추측.py" afterPath="$PROJECT_DIR$/Project_euler/14.콜라츠추측.py" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/16.2**1000각자리수 합.py" afterPath="$PROJECT_DIR$/Project_euler/16.2**1000각자리수 합.py" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/17.NumToWords.py" afterPath="$PROJECT_DIR$/Project_euler/17.NumToWords.py" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/2.Even Fibonacci numbers.py" afterPath="$PROJECT_DIR$/Project_euler/2.Even Fibonacci numbers.py" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/20.Factorial digit sum(n!).ipynb" afterPath="$PROJECT_DIR$/Project_euler/20.Factorial digit sum(n!).ipynb" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/21..ipynb" afterPath="$PROJECT_DIR$/Project_euler/21..ipynb" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/4.palindrome.py" afterPath="$PROJECT_DIR$/Project_euler/4.palindrome.py" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/5. 나누어 떨어지는 가장 작은 수.py" afterPath="$PROJECT_DIR$/Project_euler/5. 나누어 떨어지는 가장 작은 수.py" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/6.&quot;합의 제곱&quot;과 &quot;제곱의 합&quot;의 차이.py" afterPath="$PROJECT_DIR$/Project_euler/6.&quot;합의 제곱&quot;과 &quot;제곱의 합&quot;의 차이.py" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/7.Nth prime No..py" afterPath="$PROJECT_DIR$/Project_euler/7.Nth prime No..py" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/8.곱중에 가장 큰 값.py" afterPath="$PROJECT_DIR$/Project_euler/8.곱중에 가장 큰 값.py" />
-      <change beforePath="$PROJECT_DIR$/Project_euler_KR/9.피타고라스수.py" afterPath="$PROJECT_DIR$/Project_euler/9.피타고라스수.py" />
-      <change beforePath="$PROJECT_DIR$/TEST.py" afterPath="$PROJECT_DIR$/TEST.py" />
+      <change beforePath="$PROJECT_DIR$/Coding Dojo/Level 2/1.최단 경로.py" afterPath="$PROJECT_DIR$/Coding Dojo/Level 2/1.최단 경로.py" />
+      <change beforePath="$PROJECT_DIR$/Grokking Algorithms/5.散列表dict.py" afterPath="$PROJECT_DIR$/Grokking Algorithms/5.散列表 hash_table dict.py" />
       <change beforePath="$PROJECT_DIR$/TMP.py" afterPath="$PROJECT_DIR$/TMP.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 1/1.x만큼 간격이 있는 n개의 숫자.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 1/1.x만큼 간격이 있는 n개의 숫자.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 1/10.자릿수더하기.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 1/10.자릿수더하기.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 1/11.같은 숫자는 싫어.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 1/11.같은 숫자는 싫어.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 1/12.딕셔너리 정렬.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 1/12.딕셔너리 정렬.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 1/13.행열의 덧셈.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 1/13.행열의 덧셈.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 1/2.practice_average.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 1/2.practice_average.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 1/3.짝수와 홀수.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 1/3.짝수와 홀수.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 1/4.정수제곱근판별하기.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 1/4.정수제곱근판별하기.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 1/5.수박수박수박수박수박수?.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 1/5.수박수박수박수박수박수?.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 1/6.삼각형출력하기.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 1/6.삼각형출력하기.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 1/7.문자열 내 마음대로 정렬하기.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 1/7.문자열 내 마음대로 정렬하기.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 1/8.핸드폰번호 가리기.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 1/8.핸드폰번호 가리기.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 1/9.제일 작은 수 제거하기.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 1/9.제일 작은 수 제거하기.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 2/1.이상한 문자 만들기.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 2/1.이상한 문자 만들기.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 2/10.자연수를 뒤집어 리스트로 만들기.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 2/10.자연수를 뒤집어 리스트로 만들기.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 2/11.행열의 곱셈.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 2/11.행열의 곱셈.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 2/12.하샤드수.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 2/12.하샤드수.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 2/2.두정수사이의 합.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 2/2.두정수사이의 합.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 2/3.2016년.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 2/3.2016년.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 2/4.JadenCase문자열 만들기.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 2/4.JadenCase문자열 만들기.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 2/5.최솟값 만들기.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 2/5.최솟값 만들기.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 2/6.소수찾기.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 2/6.소수찾기.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 2/7.괄호확인하기.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 2/7.괄호확인하기.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 2/8.가장 긴 필림드롬.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 2/8.가장 긴 필림드롬.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 2/9.콜라츠 추측.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 2/9.콜라츠 추측.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 3/1.시저 암호.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 3/1.시저 암호.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 3/2.다음 큰 수자.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 3/2.다음 큰 수자.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 3/3.야근 지수.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 3/3.야근 지수.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 3/4.N개의 최소공배.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 3/4.N개의 최소공배.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 3/5.멀리뛰기.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 3/5.멀리뛰기.py" />
-      <change beforePath="$PROJECT_DIR$/programmers Practice/Level 4/1.숫자의 표현.py" afterPath="$PROJECT_DIR$/프로그래머스/Level 4/1.숫자의 표현.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -89,7 +31,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$1_binary_search.coverage" NAME="1.binary search Coverage Results" MODIFIED="1517805701484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grokking Algorithms" />
     <SUITE FILE_PATH="coverage/Algorithm$12_.coverage" NAME="12.쇠막대기 Coverage Results" MODIFIED="1516687784189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon" />
     <SUITE FILE_PATH="coverage/Algorithm$3__.coverage" NAME="3.선택 정열 Coverage Results" MODIFIED="1517884020079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grokking Algorithms" />
-    <SUITE FILE_PATH="coverage/Algorithm$6_Breadth_First_Search.coverage" NAME="6.Breadth First Search Coverage Results" MODIFIED="1518777091831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grokking Algorithms" />
+    <SUITE FILE_PATH="coverage/Algorithm$6_Breadth_First_Search.coverage" NAME="6.Breadth First Search Coverage Results" MODIFIED="1518821073757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grokking Algorithms" />
     <SUITE FILE_PATH="coverage/Algorithm$4__.coverage" NAME="4.퀵 정열 Coverage Results" MODIFIED="1518402465071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grokking Algorithms" />
     <SUITE FILE_PATH="coverage/Algorithm$1_.coverage" NAME="1.설탕배달 Coverage Results" MODIFIED="1515600824846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon" />
     <SUITE FILE_PATH="coverage/Algorithm$6_.coverage" NAME="6.소수찾기 Coverage Results" MODIFIED="1516799959035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers Practice/Level 2" />
@@ -104,7 +46,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$9_popular_words.coverage" NAME="9.popular words Coverage Results" MODIFIED="1517476994303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CheckIO/Elementary" />
     <SUITE FILE_PATH="coverage/Algorithm$.coverage" NAME="스택 Coverage Results" MODIFIED="1516546931411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon" />
     <SUITE FILE_PATH="coverage/Algorithm$10_solve_bigger_price.coverage" NAME="10.solve bigger price Coverage Results" MODIFIED="1517475728178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CheckIO/Elementary" />
-    <SUITE FILE_PATH="coverage/Algorithm$TMP.coverage" NAME="TMP Coverage Results" MODIFIED="1518430585761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithm$TMP.coverage" NAME="TMP Coverage Results" MODIFIED="1519140908564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -126,7 +68,7 @@
       <file leaf-file-name="4.퀵 정열.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Grokking Algorithms/4.퀵 정열.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="216">
               <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
               <folding>
                 <element signature="e#202#216#0" expanded="false" />
@@ -138,15 +80,37 @@
       <file leaf-file-name="TMP.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TMP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="288">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TEST.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TEST.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5.散列表dict.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Grokking Algorithms/5.散列表dict.py">
+      <file leaf-file-name="1.최단 경로.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Coding Dojo/Level 2/1.최단 경로.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5.散列表 hash_table dict.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grokking Algorithms/5.散列表 hash_table dict.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -235,9 +199,11 @@
         <option value="$PROJECT_DIR$/TEST.py" />
         <option value="$PROJECT_DIR$/Grokking Algorithms/3.선택 정열.py" />
         <option value="$PROJECT_DIR$/Grokking Algorithms/4.퀵 정열.py" />
-        <option value="$PROJECT_DIR$/TMP.py" />
         <option value="$PROJECT_DIR$/Grokking Algorithms/5.散列表dict.py" />
         <option value="$PROJECT_DIR$/Grokking Algorithms/6.Breadth First Search.py" />
+        <option value="$PROJECT_DIR$/Grokking Algorithms/5.散列表 hash_table dict.py" />
+        <option value="$PROJECT_DIR$/Coding Dojo/Level 2/1.최단 경로.py" />
+        <option value="$PROJECT_DIR$/TMP.py" />
       </list>
     </option>
   </component>
@@ -288,7 +254,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -304,6 +269,12 @@
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Coding Dojo" type="462c0819:PsiDirectoryNode" />
+              <item name="Level 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="Grokking Algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -311,6 +282,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -343,7 +315,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.6.Breadth First Search">
+  <component name="RunManager" selected="Python.TMP">
     <configuration name="3.선택 정열" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -488,8 +460,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.6.Breadth First Search" />
-        <item index="1" class="java.lang.String" itemvalue="Python.TMP" />
+        <item index="0" class="java.lang.String" itemvalue="Python.TMP" />
+        <item index="1" class="java.lang.String" itemvalue="Python.6.Breadth First Search" />
         <item index="2" class="java.lang.String" itemvalue="Python.4.퀵 정열" />
         <item index="3" class="java.lang.String" itemvalue="Python.3.선택 정열" />
         <item index="4" class="java.lang.String" itemvalue="Python.TEST" />
@@ -566,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517748365104</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update">
+      <created>1518777854495</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1518777854495</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -582,11 +561,10 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.497543" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2761905" sideWeight="0.5172619" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27522036" sideWeight="0.5172619" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295238" sideWeight="0.4904762" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28132677" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" x="1281" y="65" width="341" height="451" />
-      <window_info id="Run" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2708845" sideWeight="0.4827381" order="2" side_tool="true" content_ui="tabs" x="99" y="739" width="1548" height="678" />
-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908913" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22542998" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" x="1281" y="65" width="341" height="451" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5371094" sideWeight="0.4827381" order="13" side_tool="true" content_ui="tabs" x="99" y="739" width="1548" height="678" />
       <window_info id="Terminal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13267814" sideWeight="0.48525798" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="right" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="true" show_stripe_button="true" weight="0.18304668" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -600,11 +578,12 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908913" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.49508598" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.497543" order="5" side_tool="false" content_ui="tabs" />
@@ -653,13 +632,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Baekjoon/6.한수.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CheckIO/Elementary/6.the most No.(Arbitrary).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -926,13 +898,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TEST.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1728">
-          <caret line="96" column="8" lean-forward="false" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Grokking Algorithms/2.bigO.py" />
     <entry file="file://$PROJECT_DIR$/Grokking Algorithms/2.선택 정열.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -965,7 +930,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Grokking Algorithms/4.퀵 정열.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="216">
           <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
           <folding>
             <element signature="e#202#216#0" expanded="false" />
@@ -988,7 +953,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Grokking Algorithms/5.散列表dict.py">
+    <entry file="file://$PROJECT_DIR$/.vscode/settings.json" />
+    <entry file="file://$PROJECT_DIR$/Grokking Algorithms/5.散列表 hash_table dict.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -996,19 +962,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.vscode/settings.json">
+    <entry file="file://$PROJECT_DIR$/Coding Dojo/Level 2/1.최단 경로.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="342">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TEST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TMP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
