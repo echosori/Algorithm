@@ -6,7 +6,9 @@
 # 참고: 빈 칸이나 하이픈('-')은 셈에서 제외하며, 단어 사이의 and 는 셈에 넣습니다.
 #   예를 들어 342를 영어로 쓰면 three hundred and forty-two 가 되어서 23 글자,
 #   115 = one hundred and fifteen 의 경우에는 20 글자가 됩니다.
-import requests
-from bs4 import BeautifulSoup
+num2words1 = {1: 'One', 2: 'Two', 3: 'Three', 4: 'Four', 5: 'Five', \
+            6: 'Six', 7: 'Seven', 8: 'Eight', 9: 'Nine', 10: 'Ten', \
+            11: 'Eleven', 12: 'Twelve', 13: 'Thirteen', 14: 'Fourteen', \
+            15: 'Fifteen', 16: 'Sixteen', 17: 'Seventeen', 18: 'Eighteen', 19: 'Nineteen'}
+num2words2 = ['Twenty', 'Thirty', 'Forty', 'Fifty', 'Sixty', 'Seventy', 'Eighty', 'Ninety']
 
-req = requests.get('https://codebeautify.org/number-to-word-converter')
